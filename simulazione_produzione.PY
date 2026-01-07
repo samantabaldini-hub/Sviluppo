@@ -1,5 +1,5 @@
 """
-Autore: [Il tuo nome]
+Autore: [Samanta]
 Data: Ottobre 2025
 Descrizione: Simulazione di un processo produttivo nel settore secondario.
 Obiettivo: generare dati casuali su tempi e quantità produttive
