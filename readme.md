@@ -37,4 +37,4 @@ Il programma restituisce:
 Python 3 + libreria pandas
 
 ## Autore
-Inserire nome
+Samanta
